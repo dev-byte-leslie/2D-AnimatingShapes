@@ -1,7 +1,6 @@
 /********************************************************************
 *
 *File: Scene.cpp
-*Project: Programming Project 3 - CS 145 - Dr.Berrier
 *Author: Leslie Murphy and Dylan Playle
 *Description:
 *Date: 4-30-16

@@ -1,7 +1,6 @@
 /********************************************************************
 *
 *File: CompositeShape.cpp
-*Project: Programming Project 3 - CS 145 - Dr.Berrier
 *Author: Leslie Murphy and Dylan Playle
 *Description: Implementation for the CompositeShape class
 *Date: 4-30-16
